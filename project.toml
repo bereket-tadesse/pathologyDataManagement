@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "autoRecord_Bereket_Tadesse"
+version = "0.0.1"
+authors = [
+  { name="Bereket Tadesse", email="bekimehari@gmail.com" },
+]
+description = "A package which record patient test records into a databdirectory automatically with OCR and identification of ID"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: ** :: **",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/bereket-tadesse/pathologyDataManagement"
+"Bug Tracker" = "https://github.com/bereket-tadesse/pathologyDataManagement/issues"
