@@ -24,9 +24,14 @@ package to use:
 - append single_page_patient_record on to recordPDF_in_search
 - append pdf_for_all on to recordPDF_in_search
 
-Progect hierarcy:
+8. upload the package to TestPyPI
 
-src:
+Progect hierarcy:
+├── src  
+├── test  
+├── project.toml  
+├── LICENSE
+└── README.md
 
 - helper functions:
 
