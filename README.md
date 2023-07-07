@@ -26,8 +26,7 @@ package to use:
 
 8. upload the package to TestPyPI
 
-Progect hierarcy:
-
+Progect hierarcy: <br>
 ├── src  
 ├── test  
 ├── project.toml  
