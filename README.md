@@ -30,7 +30,7 @@ Progect hierarcy: <br>
 ├── src  
 ├── test  
 ├── project.toml  
-├── LICENSE
+├── LICENSE <br>
 └── README.md
 
 - helper functions:
